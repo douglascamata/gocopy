@@ -1,0 +1,15 @@
+package foo
+
+// This is a grouped type.
+type (
+	// A is a mega feature.
+	A struct {
+		// Field a docs.
+		// With multiline comment.
+		a int
+	}
+	// B is a cool struct.
+	B struct {
+		b int
+	}
+)

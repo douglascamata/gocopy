@@ -1,0 +1,7 @@
+// A is a mega feature.
+A struct {
+	// Field a docs.
+	// With multiline comment.
+	a int
+}
+
